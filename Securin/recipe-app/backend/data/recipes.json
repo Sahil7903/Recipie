@@ -1,0 +1,128 @@
+[
+  {
+    "cuisine": "Italian",
+    "title": "Classic Spaghetti Carbonara",
+    "rating": 4.8,
+    "prep_time": 10,
+    "cook_time": 15,
+    "total_time": 25,
+    "description": "A classic Roman pasta dish made with eggs, hard cheese, cured pork, and black pepper. The dish is famously creamy without any cream.",
+    "nutrients": {
+      "calories": "600 kcal",
+      "proteinContent": "25g",
+      "fatContent": "35g",
+      "carbohydrateContent": "45g",
+      "sodiumContent": "1200mg",
+      "cholesterolContent": "250mg",
+      "fiberContent": "3g",
+      "sugarContent": "2g",
+      "saturatedFatContent": "15g"
+    },
+    "serves": "2-3"
+  },
+  {
+    "cuisine": "Indian",
+    "title": "Chicken Tikka Masala",
+    "rating": 4.9,
+    "prep_time": 20,
+    "cook_time": 30,
+    "total_time": 50,
+    "description": "A creamy and flavorful curry with chunks of marinated and grilled chicken in a spiced tomato-based sauce. A favorite worldwide.",
+    "nutrients": {
+      "calories": "550 kcal",
+      "proteinContent": "40g",
+      "fatContent": "30g",
+      "carbohydrateContent": "25g",
+      "sodiumContent": "950mg",
+      "cholesterolContent": "150mg",
+      "fiberContent": "5g",
+      "sugarContent": "8g",
+      "saturatedFatContent": "12g"
+    },
+    "serves": "4"
+  },
+  {
+    "cuisine": "American",
+    "title": "Fluffy American Pancakes",
+    "rating": 4.5,
+    "prep_time": 5,
+    "cook_time": 15,
+    "total_time": 20,
+    "description": "Simple, fluffy pancakes that are a staple for a classic American breakfast. Serve with maple syrup, butter, and your favorite fruit.",
+    "nutrients": {
+      "calories": "350 kcal",
+      "proteinContent": "8g",
+      "fatContent": "12g",
+      "carbohydrateContent": "50g",
+      "sodiumContent": "600mg",
+      "cholesterolContent": "80mg",
+      "fiberContent": "2g",
+      "sugarContent": "15g",
+      "saturatedFatContent": "6g"
+    },
+    "serves": "Makes 8 pancakes"
+  },
+  {
+    "cuisine": "Healthy",
+    "title": "Mediterranean Quinoa Salad",
+    "rating": "NaN",
+    "prep_time": 15,
+    "cook_time": 20,
+    "total_time": 35,
+    "description": "A refreshing and healthy salad packed with quinoa, cucumbers, tomatoes, bell peppers, olives, and feta cheese, tossed in a lemon-herb vinaigrette.",
+    "nutrients": {
+      "calories": "400 kcal",
+      "proteinContent": "15g",
+      "fatContent": "20g",
+      "carbohydrateContent": "40g",
+      "sodiumContent": "450mg",
+      "cholesterolContent": "20mg",
+      "fiberContent": "10g",
+      "sugarContent": "5g",
+      "saturatedFatContent": "5g"
+    },
+    "serves": "4"
+  },
+  {
+    "cuisine": "Mexican",
+    "title": "Simple Guacamole",
+    "rating": 4.7,
+    "prep_time": "NaN",
+    "cook_time": 0,
+    "total_time": 10,
+    "description": "A quick and easy guacamole recipe with ripe avocados, onion, cilantro, lime juice, and a pinch of salt. Perfect as a dip or a side.",
+    "nutrients": {
+      "calories": "150 kcal",
+      "proteinContent": "2g",
+      "fatContent": "14g",
+      "carbohydrateContent": "8g",
+      "sodiumContent": "200mg",
+      "cholesterolContent": "0mg",
+      "fiberContent": "6g",
+      "sugarContent": "1g",
+      "saturatedFatContent": "2g"
+    },
+    "serves": "Serves 4 as an appetizer"
+  },
+  {
+    "cuisine": "Japanese",
+    "title": "Classic Miso Soup",
+    "rating": 4.6,
+    "prep_time": 5,
+    "cook_time": 10,
+    "total_time": 15,
+    "description": "A traditional Japanese soup consisting of a dashi stock into which softened miso paste is mixed. Many ingredients are added depending on regional and seasonal recipes, and personal preference.",
+    "nutrients": {
+      "calories": "80 kcal",
+      "proteinContent": "6g",
+      "fatContent": "3g",
+      "carbohydrateContent": "8g",
+      "sodiumContent": "900mg",
+      "cholesterolContent": "5mg",
+      "fiberContent": "1g",
+      "sugarContent": "3g",
+      "saturatedFatContent": "1g"
+    },
+    "serves": "2"
+  }
+]
